@@ -1,0 +1,128 @@
+{
+  "common": {
+    "search": "Tìm kiếm...",
+    "seeAll": "Xem tất cả",
+    "filters": "Bộ lọc",
+    "skip": "Bỏ qua",
+    "next": "Tiếp",
+    "start": "Bắt đầu",
+    "or": "HOẶC",
+    "send": "Gửi",
+    "continue": "Tiếp tục",
+    "save": "Lưu",
+    "cancel": "Hủy",
+    "ok": "OK",
+    "back": "Quay lại",
+    "loading": "Đang tải...",
+    "free": "Miễn phí",
+    "invite": "Mời",
+    "follow": "Theo dõi",
+    "going": "Tham gia",
+    "currentLocation": "Vị trí hiện tại"
+  },
+  "auth": {
+    "signIn": "Đăng nhập",
+    "signUp": "Đăng ký",
+    "signOut": "Đăng xuất",
+    "email": "abc@email.com",
+    "password": "Mật khẩu",
+    "confirmPassword": "Xác nhận mật khẩu",
+    "fullName": "Họ và tên",
+    "rememberMe": "Ghi nhớ đăng nhập",
+    "forgotPassword": "Quên mật khẩu?",
+    "noAccount": "Chưa có tài khoản?",
+    "haveAccount": "Đã có tài khoản?",
+    "loginGoogle": "Đăng nhập bằng Google",
+    "loginFacebook": "Đăng nhập bằng Facebook",
+    "verification": "Xác minh",
+    "verificationSubtitle": "Chúng tôi đã gửi mã xác minh đến",
+    "resendCode": "Gửi lại mã sau",
+    "resend": "Gửi lại",
+    "resetPassword": "Đặt lại mật khẩu",
+    "resetSubtitle": "Vui lòng nhập email để yêu cầu đặt lại mật khẩu"
+  },
+  "onboarding": {
+    "slide1Title": "Khám phá sự kiện\nSắp diễn ra gần bạn",
+    "slide1Sub": "Tìm kiếm và tham gia các sự kiện hấp dẫn nhất trong khu vực của bạn",
+    "slide2Title": "Tính năng lịch\nsự kiện hiện đại",
+    "slide2Sub": "Quản lý và theo dõi tất cả sự kiện yêu thích của bạn một cách dễ dàng",
+    "slide3Title": "Tìm kiếm sự kiện\nqua bản đồ",
+    "slide3Sub": "Khám phá các sự kiện và hoạt động gần bạn thông qua bản đồ tương tác"
+  },
+  "home": {
+    "upcomingEvents": "Sự kiện sắp diễn ra",
+    "nearbyYou": "Gần bạn",
+    "inviteTitle": "Mời bạn bè",
+    "inviteSubtitle": "Nhận $20 cho mỗi vé",
+    "hotEvents": "Sự kiện nổi bật",
+    "categories": "Danh mục",
+    "all": "Tất cả"
+  },
+  "categories": {
+    "sports": "Thể thao",
+    "music": "Âm nhạc",
+    "food": "Ẩm thực",
+    "arts": "Nghệ thuật",
+    "tech": "Công nghệ",
+    "travel": "Du lịch"
+  },
+  "event": {
+    "eventDetails": "Chi tiết sự kiện",
+    "aboutEvent": "Về sự kiện",
+    "date": "Ngày",
+    "time": "Giờ",
+    "location": "Địa điểm",
+    "organizer": "Ban tổ chức",
+    "attendees": "Người tham dự",
+    "buyTicket": "MUA VÉ",
+    "bookNow": "Đặt vé ngay",
+    "registerFree": "Đăng ký miễn phí",
+    "ticketType": "Loại vé",
+    "quantity": "Số lượng",
+    "total": "Tổng cộng",
+    "maxTickets": "Tối đa 10 vé",
+    "regular": "Vé thường",
+    "vip": "Vé VIP",
+    "vvip": "Vé VVIP",
+    "viewMap": "Xem bản đồ",
+    "saved": "Đã lưu",
+    "rating": "đánh giá"
+  },
+  "menu": {
+    "myProfile": "Hồ sơ của tôi",
+    "message": "Tin nhắn",
+    "calendar": "Lịch",
+    "bookmark": "Đã lưu",
+    "contactUs": "Liên hệ",
+    "settings": "Cài đặt",
+    "helpsFaqs": "Trợ giúp & FAQ",
+    "upgradePro": "Nâng cấp Pro"
+  },
+  "map": {
+    "findFood": "Tìm kiếm sự kiện, địa điểm...",
+    "nearbyEvents": "Sự kiện gần bạn"
+  },
+  "search": {
+    "title": "Tìm kiếm",
+    "placeholder": "Tìm kiếm sự kiện...",
+    "noResults": "Không tìm thấy sự kiện",
+    "results": "Kết quả"
+  },
+  "profile": {
+    "title": "Hồ sơ",
+    "myTickets": "Vé của tôi",
+    "myEvents": "Sự kiện của tôi",
+    "following": "Đang theo dõi",
+    "followers": "Người theo dõi"
+  },
+  "settings": {
+    "title": "Cài đặt",
+    "language": "Ngôn ngữ",
+    "notification": "Thông báo",
+    "privacy": "Quyền riêng tư",
+    "theme": "Giao diện",
+    "chooseLanguage": "Chọn ngôn ngữ",
+    "vietnamese": "Tiếng Việt",
+    "english": "Tiếng Anh"
+  }
+}

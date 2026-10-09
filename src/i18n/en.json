@@ -1,0 +1,128 @@
+{
+  "common": {
+    "search": "Search...",
+    "seeAll": "See All",
+    "filters": "Filters",
+    "skip": "Skip",
+    "next": "Next",
+    "start": "Start",
+    "or": "OR",
+    "send": "Send",
+    "continue": "Continue",
+    "save": "Save",
+    "cancel": "Cancel",
+    "ok": "OK",
+    "back": "Back",
+    "loading": "Loading...",
+    "free": "Free",
+    "invite": "Invite",
+    "follow": "Follow",
+    "going": "Going",
+    "currentLocation": "Current Location"
+  },
+  "auth": {
+    "signIn": "Sign in",
+    "signUp": "Sign up",
+    "signOut": "Sign Out",
+    "email": "abc@email.com",
+    "password": "Your password",
+    "confirmPassword": "Confirm password",
+    "fullName": "Full name",
+    "rememberMe": "Remember Me",
+    "forgotPassword": "Forgot Password?",
+    "noAccount": "Don't have an account?",
+    "haveAccount": "Already have an account?",
+    "loginGoogle": "Login with Google",
+    "loginFacebook": "Login with Facebook",
+    "verification": "Verification",
+    "verificationSubtitle": "We've send you the verification code on",
+    "resendCode": "Re-send code in",
+    "resend": "Resend",
+    "resetPassword": "Reset Password",
+    "resetSubtitle": "Please enter your email address to request a password reset"
+  },
+  "onboarding": {
+    "slide1Title": "Explore Upcoming and\nNearby Events",
+    "slide1Sub": "In publishing and graphic design, Lorem is a placeholder text commonly",
+    "slide2Title": "We Have Modern Events\nCalendar Feature",
+    "slide2Sub": "In publishing and graphic design, Lorem is a placeholder text commonly",
+    "slide3Title": "To Look Up More Events or\nActivities Nearby By Map",
+    "slide3Sub": "In publishing and graphic design, Lorem is a placeholder text commonly"
+  },
+  "home": {
+    "upcomingEvents": "Upcoming Events",
+    "nearbyYou": "Nearby You",
+    "inviteTitle": "Invite your friends",
+    "inviteSubtitle": "Get $20 for ticket",
+    "hotEvents": "Hot Events",
+    "categories": "Categories",
+    "all": "All"
+  },
+  "categories": {
+    "sports": "Sports",
+    "music": "Music",
+    "food": "Food",
+    "arts": "Arts",
+    "tech": "Technology",
+    "travel": "Travel"
+  },
+  "event": {
+    "eventDetails": "Event Details",
+    "aboutEvent": "About Event",
+    "date": "Date",
+    "time": "Time",
+    "location": "Location",
+    "organizer": "Organizer",
+    "attendees": "Attendees",
+    "buyTicket": "BUY TICKET",
+    "bookNow": "Book Now",
+    "registerFree": "Register Free",
+    "ticketType": "Ticket Type",
+    "quantity": "Quantity",
+    "total": "Total",
+    "maxTickets": "Max 10 tickets",
+    "regular": "Regular",
+    "vip": "VIP",
+    "vvip": "VVIP",
+    "viewMap": "View Map",
+    "saved": "Saved",
+    "rating": "ratings"
+  },
+  "menu": {
+    "myProfile": "My Profile",
+    "message": "Message",
+    "calendar": "Calendar",
+    "bookmark": "Bookmark",
+    "contactUs": "Contact Us",
+    "settings": "Settings",
+    "helpsFaqs": "Helps & FAQs",
+    "upgradePro": "Upgrade Pro"
+  },
+  "map": {
+    "findFood": "Find for food or restaurant...",
+    "nearbyEvents": "Events Near You"
+  },
+  "search": {
+    "title": "Search",
+    "placeholder": "Search events...",
+    "noResults": "No events found",
+    "results": "Results"
+  },
+  "profile": {
+    "title": "Profile",
+    "myTickets": "My Tickets",
+    "myEvents": "My Events",
+    "following": "Following",
+    "followers": "Followers"
+  },
+  "settings": {
+    "title": "Settings",
+    "language": "Language",
+    "notification": "Notifications",
+    "privacy": "Privacy",
+    "theme": "Theme",
+    "chooseLanguage": "Choose Language",
+    "vietnamese": "Vietnamese",
+    "english": "English"
+  }
+}
